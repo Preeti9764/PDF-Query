@@ -2,7 +2,12 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
+langchain-text-splitters
+langchain-community
+langchain-classic
 PyPDF2
 chromadb
 faiss-cpu
 langchain_google_genai
+sentence-transformers
+torch
